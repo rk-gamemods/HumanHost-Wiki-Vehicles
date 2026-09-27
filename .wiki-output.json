@@ -15,6 +15,7 @@
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
     "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json",
+    "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json",
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json",
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
@@ -24,6 +25,7 @@
     "site/runtime/9fd88db8c98bf81a1e52b7104dba7f796715b783ec6f2e3311420d3ae9d0d7ad/reader.js",
     "site/runtime/a268387a03c52038a83ea3102ba51e54ecdd9cd69d0aeb28a971db418cfd5079/reader.js",
     "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js",
+    "site/runtime/cca169884bcd566b7cefd6445ed37d6135df77fb2d4a9c67dda80dc6cbd4e5b7/reader.js",
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
     "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js",
     "site/runtime/f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67/reader.js",
@@ -32,19 +34,19 @@
   "files": {
     "README.md": {
       "bytes": 497,
-      "sha256": "dfa71b83ebf251eca83119b517be07dafa10a957202f65939892cc868c13adb7"
+      "sha256": "7520c64d7dbd2e81d7f19ae6906c372b78c98f8919323f82f3dbd9ad236494f9"
     },
     "reference/index.md": {
       "bytes": 274,
-      "sha256": "2cea121410c5809d667814585ab010282537adb9ce6a27fef38408a6ec4337c3"
+      "sha256": "9fa9e990b100efdba4391cde58ae5dd025f336f7ec0ea106fb376845b1b5f446"
     },
     "reference/vehicle-rule/0001.md": {
       "bytes": 979,
-      "sha256": "d9616a56e0d667b905e7d8b835d709079c79d8e37565e2ebc4e2f1944e31c44c"
+      "sha256": "746de36c618004ac0a33c1fe9bcafec5458fc9fb7befa0ea96dbec24daaa99de"
     },
     "reference/vehicle/0001.md": {
       "bytes": 963,
-      "sha256": "31142c549e2a0d56d3e605132a43f051cd8a4b7e922a2f612a90fd84d4c31c1b"
+      "sha256": "8c5dfb74676ae136b2aa6455d6ae1111a66bf01285107261566c3a3faf819951"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -120,7 +122,7 @@
     },
     "site/reader.json": {
       "bytes": 6555,
-      "sha256": "0a6ce36682c65c15468cabd93c63601befd3276925b99785c673a5ec2a384878"
+      "sha256": "e2017f99b58d1a206fb1dcd6c9d44ff53a781f025d61d7569a68c8be37684eff"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4983,
@@ -137,6 +139,10 @@
     "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json": {
       "bytes": 6011,
       "sha256": "8521a1fa35591cc65859bf145a2c20e6c6e0ee610b8c878c24e56411cb44a7c0"
+    },
+    "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json": {
+      "bytes": 6555,
+      "sha256": "e2017f99b58d1a206fb1dcd6c9d44ff53a781f025d61d7569a68c8be37684eff"
     },
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json": {
       "bytes": 6555,
@@ -174,6 +180,10 @@
       "bytes": 15795,
       "sha256": "a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467"
     },
+    "site/runtime/cca169884bcd566b7cefd6445ed37d6135df77fb2d4a9c67dda80dc6cbd4e5b7/reader.js": {
+      "bytes": 24833,
+      "sha256": "cca169884bcd566b7cefd6445ed37d6135df77fb2d4a9c67dda80dc6cbd4e5b7"
+    },
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
       "bytes": 4358,
       "sha256": "cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317"
@@ -192,7 +202,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411",
+  "release_id": "681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43",
   "repository_id": "vehicles",
   "schema_version": 1
 }
