@@ -2,19 +2,25 @@
   "capacity_objects": [
     "site/data/1c6e895cd2f8fb890d8138def3b99e3b5d38ea8cfe5891999e0a554f48a40213.json",
     "site/data/3cef5a602603bc8b65a531b967099de0d6087b4e35863b55301e24d173bc5420.json",
+    "site/data/8056249f592a5a41dda58b22f95a0ef5635ff2a5c411e83d27cfe512d70b4158.json",
     "site/data/93642c196e0c969e6c92ac8080e468d0b88e3645008c863d0faaf8341b51de16.json",
     "site/data/eda959babd91f1361c497100fccafe586d5969781217e9b15391e5cf699ce14a.json",
     "site/data/f4022ef9d7c92beb775b5aca1c043caa1e343d275c151bd1e996c53744c5f7c2.json",
     "site/objects/085375a4b618c8d0ef85e1d97447791364052012de879fe4cc70e49e878b3a18.json",
     "site/objects/69b5f7d1dae77512814c9c3d713ff388a5e0cfd06eee378dabfea0b354df4f4e.json",
+    "site/objects/82d72f07596a55c48f7fa385625a8e8cbaed66dbbd74687b61930a34f80e09e3.json",
+    "site/objects/c68e5859ddf10ea81820b350060ddbee1f907e47477d11f7c80a69127d13e6b2.json",
+    "site/objects/e7102d2143d1d85dbf9294f9d81857e4401e9f49550ed001c3a353a4cceec08b.json",
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
     "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json",
+    "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json",
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7.json",
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
+    "site/runtime/1969013df39236ae5167e7120957b351fc102b3f4d88a385eb67efc586721698/reader.js",
     "site/runtime/9fd88db8c98bf81a1e52b7104dba7f796715b783ec6f2e3311420d3ae9d0d7ad/reader.js",
     "site/runtime/a268387a03c52038a83ea3102ba51e54ecdd9cd69d0aeb28a971db418cfd5079/reader.js",
     "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js",
@@ -26,19 +32,19 @@
   "files": {
     "README.md": {
       "bytes": 497,
-      "sha256": "3fe1ebd751341e082cabfb7b6251e14fe28abd15bb649248945db4fa79d9095f"
+      "sha256": "dfa71b83ebf251eca83119b517be07dafa10a957202f65939892cc868c13adb7"
     },
     "reference/index.md": {
       "bytes": 274,
-      "sha256": "5b24d26c9d11f184e8e0e11e43fc8ff534435d290d627e3392d51d57c98d4686"
+      "sha256": "2cea121410c5809d667814585ab010282537adb9ce6a27fef38408a6ec4337c3"
     },
     "reference/vehicle-rule/0001.md": {
       "bytes": 979,
-      "sha256": "893bdf0729be5d6bbdd850a462fb5cf01e48627d02c9d9ad14c9225ecf140e2b"
+      "sha256": "d9616a56e0d667b905e7d8b835d709079c79d8e37565e2ebc4e2f1944e31c44c"
     },
     "reference/vehicle/0001.md": {
       "bytes": 963,
-      "sha256": "9a5fa6684f36d2dc867f5f1d4193630d9e90182462d6bf8e16596fe88b5da449"
+      "sha256": "31142c549e2a0d56d3e605132a43f051cd8a4b7e922a2f612a90fd84d4c31c1b"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -55,6 +61,10 @@
     "site/data/3cef5a602603bc8b65a531b967099de0d6087b4e35863b55301e24d173bc5420.json": {
       "bytes": 1267,
       "sha256": "3cef5a602603bc8b65a531b967099de0d6087b4e35863b55301e24d173bc5420"
+    },
+    "site/data/8056249f592a5a41dda58b22f95a0ef5635ff2a5c411e83d27cfe512d70b4158.json": {
+      "bytes": 3002,
+      "sha256": "8056249f592a5a41dda58b22f95a0ef5635ff2a5c411e83d27cfe512d70b4158"
     },
     "site/data/93642c196e0c969e6c92ac8080e468d0b88e3645008c863d0faaf8341b51de16.json": {
       "bytes": 1670,
@@ -88,6 +98,18 @@
       "bytes": 1825,
       "sha256": "69b5f7d1dae77512814c9c3d713ff388a5e0cfd06eee378dabfea0b354df4f4e"
     },
+    "site/objects/82d72f07596a55c48f7fa385625a8e8cbaed66dbbd74687b61930a34f80e09e3.json": {
+      "bytes": 1909,
+      "sha256": "82d72f07596a55c48f7fa385625a8e8cbaed66dbbd74687b61930a34f80e09e3"
+    },
+    "site/objects/c68e5859ddf10ea81820b350060ddbee1f907e47477d11f7c80a69127d13e6b2.json": {
+      "bytes": 1909,
+      "sha256": "c68e5859ddf10ea81820b350060ddbee1f907e47477d11f7c80a69127d13e6b2"
+    },
+    "site/objects/e7102d2143d1d85dbf9294f9d81857e4401e9f49550ed001c3a353a4cceec08b.json": {
+      "bytes": 2085,
+      "sha256": "e7102d2143d1d85dbf9294f9d81857e4401e9f49550ed001c3a353a4cceec08b"
+    },
     "site/reader.css": {
       "bytes": 59,
       "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
@@ -97,8 +119,8 @@
       "sha256": "257fa077be724f14eb91dbe74106853b1281b9809a8307aa0ade74d6ba98b43a"
     },
     "site/reader.json": {
-      "bytes": 6011,
-      "sha256": "8521a1fa35591cc65859bf145a2c20e6c6e0ee610b8c878c24e56411cb44a7c0"
+      "bytes": 6555,
+      "sha256": "0a6ce36682c65c15468cabd93c63601befd3276925b99785c673a5ec2a384878"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4983,
@@ -116,6 +138,10 @@
       "bytes": 6011,
       "sha256": "8521a1fa35591cc65859bf145a2c20e6c6e0ee610b8c878c24e56411cb44a7c0"
     },
+    "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json": {
+      "bytes": 6555,
+      "sha256": "0a6ce36682c65c15468cabd93c63601befd3276925b99785c673a5ec2a384878"
+    },
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
       "bytes": 5056,
       "sha256": "c8e30f6a388028fbb515265b0d668e3a0ebd94e768ff2ab00ca6b13cf2a30b46"
@@ -131,6 +157,10 @@
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json": {
       "bytes": 4983,
       "sha256": "d180b7bf587a8b3febf51755c3adec93a94efb35b9a3103ff926ea4a18eca699"
+    },
+    "site/runtime/1969013df39236ae5167e7120957b351fc102b3f4d88a385eb67efc586721698/reader.js": {
+      "bytes": 23601,
+      "sha256": "1969013df39236ae5167e7120957b351fc102b3f4d88a385eb67efc586721698"
     },
     "site/runtime/9fd88db8c98bf81a1e52b7104dba7f796715b783ec6f2e3311420d3ae9d0d7ad/reader.js": {
       "bytes": 22281,
@@ -162,7 +192,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5",
+  "release_id": "748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411",
   "repository_id": "vehicles",
   "schema_version": 1
 }
