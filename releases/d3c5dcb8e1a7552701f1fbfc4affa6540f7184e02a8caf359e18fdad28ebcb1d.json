@@ -2,7 +2,7 @@
   "availability": {
     "app_id": "2393970",
     "branch": "public",
-    "checked_at": "2026-10-05T07:23:41+00:00",
+    "checked_at": "2026-10-04T18:55:19+00:00",
     "contract": {
       "availability.py": "cca4d1f8edcf6962eda0c13fe98a7bec7bfba950aed4a7bde7dd7f0513776d06",
       "steam_build.py": "9ff63f3a47073903723f6af5006c199450733fc0a7e6e09064173a83b4b75d1e"
@@ -10,25 +10,25 @@
     "observation": {
       "app_id": "2393970",
       "branch": "public",
-      "branch_updated_at_unix": 1791150020,
-      "build_id": "25716018",
+      "branch_updated_at_unix": 1791132185,
+      "build_id": "25712240",
       "client_sha256": "88f791368cdb3a8c82b84d3ea53f25c18c33b425a0560d5a3f851bd709b35580",
       "depot_manifests": {
-        "2393972": "6753512564671612779"
+        "2393972": "3593326011533444141"
       },
-      "response_sha256": "4cdaf046ee5b874391b3998c5521107081277acedaf9f14d67ea76375d82f46d",
+      "response_sha256": "8fdbb88a6e566c3d0a7aa62419329997124a0de44f219ce41a1dbe1715ac5802",
       "source": "steamcmd-app-info",
       "source_url": "https://partner.steamgames.com/doc/sdk/api/debugging#console_commands"
     },
     "schema_version": 1,
     "status": "observed"
   },
-  "candidate_id": "ddcac36d4800f3d3b4613c9730015ce7daa81c264f1fc237201c1a2dfb436e8d",
+  "candidate_id": "61c5e59cd5b29d82980f55b197be0ba7829f294e8041b0d89a985537b176ddcc",
   "default_snapshot": "build-25712240-d7c49874ae12",
   "external_articles": {
     "bytes": 639,
-    "path": "objects/7bc5b034dc9bc01360d9df7b4bdc6c4c0828af0746ff54f0948bdedf5d75d512.json",
-    "sha256": "7bc5b034dc9bc01360d9df7b4bdc6c4c0828af0746ff54f0948bdedf5d75d512"
+    "path": "objects/fec74f2b8f9f87c11078d049d7fa50635e86df7484ed82881a142138181649f1.json",
+    "sha256": "fec74f2b8f9f87c11078d049d7fa50635e86df7484ed82881a142138181649f1"
   },
   "features": [
     "shard-directories-v1",
@@ -100,10 +100,10 @@
   ],
   "project": "Unofficial Game Data Wiki for Human Host",
   "publication": "prepared-git-release",
-  "release_id": "bfdb594679060c4c4edcc7ac3e5530b6bf47673037f761e298d7ac2fb080db13",
+  "release_id": "d3c5dcb8e1a7552701f1fbfc4affa6540f7184e02a8caf359e18fdad28ebcb1d",
   "runtime": {
     "css": "runtime/12c13066c6124e29ca69c88a818d7d9f2ecdcf670c0700ac8ff65181e80e8ac3/reader.css",
-    "js": "runtime/4c73c7ebeec6a74fb82bec88eeea434f70119d4f75cd3b74cbb42e71d0c7d9c9/reader.js"
+    "js": "runtime/e6c8d4d1f093c21956e06945ba01e98c76cacf7bd362bdd2afc06e38216dfa37/reader.js"
   },
   "schema_version": 1,
   "site": {
@@ -237,44 +237,44 @@
   },
   "snapshots": {
     "build-25548639-0bf00fe33781": {
-      "bytes": 8432,
-      "path": "objects/1315a3b18f44af7f7f8925f2349364509c2895e65a0e563afb94d7a0de6cb467.json",
-      "sha256": "1315a3b18f44af7f7f8925f2349364509c2895e65a0e563afb94d7a0de6cb467"
+      "bytes": 8182,
+      "path": "objects/86bc80147dd6c88b809e02fa07c5e27fd5d495b7ce77a7735e845dff44b23028.json",
+      "sha256": "86bc80147dd6c88b809e02fa07c5e27fd5d495b7ce77a7735e845dff44b23028"
     },
     "build-25548639-1080b929da89": {
-      "bytes": 8432,
-      "path": "objects/d5bff4a9a56be8d7507c457b76c2c950a9f50b770aa4a895fb692c32745bb7f2.json",
-      "sha256": "d5bff4a9a56be8d7507c457b76c2c950a9f50b770aa4a895fb692c32745bb7f2"
+      "bytes": 8182,
+      "path": "objects/4194be8c26a05ed7165c9cb36167b7412c2aa1e89efe0142bfaa119632966fb9.json",
+      "sha256": "4194be8c26a05ed7165c9cb36167b7412c2aa1e89efe0142bfaa119632966fb9"
     },
     "build-25548639-8f1263c7d28f": {
-      "bytes": 3513,
-      "path": "objects/3b391bb1b1b94b73b3f697b2ebec30b56378d047d1276c6c62256e2c2b0ecb83.json",
-      "sha256": "3b391bb1b1b94b73b3f697b2ebec30b56378d047d1276c6c62256e2c2b0ecb83"
+      "bytes": 3263,
+      "path": "objects/8db43aa85a73eed3f573be6bc5c5b14f0cf80f015f9da5cde8f55ee229a47c7e.json",
+      "sha256": "8db43aa85a73eed3f573be6bc5c5b14f0cf80f015f9da5cde8f55ee229a47c7e"
     },
     "build-25548639-a7d9406a5bfb": {
-      "bytes": 3513,
-      "path": "objects/95303032eebe9267055a0a00b28df7a79f8a71dca129af5adeb4a56735864bc3.json",
-      "sha256": "95303032eebe9267055a0a00b28df7a79f8a71dca129af5adeb4a56735864bc3"
+      "bytes": 3263,
+      "path": "objects/cd40b8315ea38c4d6e37c2a1c84b04c6bc74a295f5acec9ce51c100d46c2d788.json",
+      "sha256": "cd40b8315ea38c4d6e37c2a1c84b04c6bc74a295f5acec9ce51c100d46c2d788"
     },
     "build-25587699-a399133f7ca4": {
-      "bytes": 9099,
-      "path": "objects/d161a48fefd0ccdfd17011a010eea01904d906341cf7a6b08c73aa56610c5a9b.json",
-      "sha256": "d161a48fefd0ccdfd17011a010eea01904d906341cf7a6b08c73aa56610c5a9b"
+      "bytes": 8849,
+      "path": "objects/f428442de5fd5228414c6a2cf41fa1119c7f0c1d966c89d60d1578c1903ddac2.json",
+      "sha256": "f428442de5fd5228414c6a2cf41fa1119c7f0c1d966c89d60d1578c1903ddac2"
     },
     "build-25606549-f1e8b4a4a8b8": {
-      "bytes": 9436,
-      "path": "objects/cafea9fbaae167b79b74320f9d30add423106033716d4375b6903554b61fc589.json",
-      "sha256": "cafea9fbaae167b79b74320f9d30add423106033716d4375b6903554b61fc589"
+      "bytes": 9186,
+      "path": "objects/6dfc9e22e81366d8383d6714b44bb1589676bbc012102902bb3bd9d99f31c0ec.json",
+      "sha256": "6dfc9e22e81366d8383d6714b44bb1589676bbc012102902bb3bd9d99f31c0ec"
     },
     "build-25675256-8764ea7be0f8": {
-      "bytes": 9433,
-      "path": "objects/7f5a4a32b75f289ce21aff2fc83f820d542e879c900e9dbe4f84959d82599304.json",
-      "sha256": "7f5a4a32b75f289ce21aff2fc83f820d542e879c900e9dbe4f84959d82599304"
+      "bytes": 9183,
+      "path": "objects/aaca91984f1f5766ad9b9205fe30e6b699b808a8c185c3b524b3bf0488d08392.json",
+      "sha256": "aaca91984f1f5766ad9b9205fe30e6b699b808a8c185c3b524b3bf0488d08392"
     },
     "build-25712240-d7c49874ae12": {
-      "bytes": 8769,
-      "path": "objects/7f4e4836599af4add58a0836891bdf341f0b5be7953531601df25c8fc1efe384.json",
-      "sha256": "7f4e4836599af4add58a0836891bdf341f0b5be7953531601df25c8fc1efe384"
+      "bytes": 8516,
+      "path": "objects/c5de92528f789535d2d48f9b0e94e6041597612bf6e94dca798536d414d6dab8.json",
+      "sha256": "c5de92528f789535d2d48f9b0e94e6041597612bf6e94dca798536d414d6dab8"
     }
   },
   "topic": "vehicles",
@@ -377,8 +377,8 @@
           "terra block"
         ]
       },
-      "identity_run": "27b1e739058de950b67872e6783eeaa5c3c872e11e1dcf073fca21bc1d9827a1",
-      "observations": 27283,
+      "identity_run": "2d59fb0bf973aeeb0bb6d3a6c27caaca85a8a7a696da4fd23a01fc86b3aa7aef",
+      "observations": 27281,
       "snapshot_id": "build-25712240-d7c49874ae12"
     },
     {
