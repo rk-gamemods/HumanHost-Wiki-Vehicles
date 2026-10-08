@@ -119,6 +119,7 @@
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json",
     "site/releases/777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f.json",
     "site/releases/7a3c1abc5752db31b2560fac7258e4b4ce5c9581eb634473097f1940995c69b9.json",
+    "site/releases/7f57527ba333c349fc353f81ef85ba91cfa6887abf476871498ae1f5b54fcb33.json",
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/85460ed704f517755552c56d6ed194f9091323d9775aec9c6fd010f19bd3838e.json",
     "site/releases/915ada20008ca002299b60b9ab3c09d56ab3c9906cbdb0174170d1a1b032f214.json",
@@ -147,6 +148,7 @@
     "site/runtime/d17b806becf4097777eaead5e9157ed8dabfea349de92214df567abefc2c19b7/reader.js",
     "site/runtime/d455da4e4f341a98b768f03c6766c913420cf7b139ad5ac7a1757a6a0663a708/reader.js",
     "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js",
+    "site/runtime/d9e4159195ad774b46fc258059c6f14681f1ee6be8f086f2224d5399dee3c6a8/reader.js",
     "site/runtime/e6c8d4d1f093c21956e06945ba01e98c76cacf7bd362bdd2afc06e38216dfa37/reader.js",
     "site/runtime/f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67/reader.js",
     "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js"
@@ -154,19 +156,19 @@
   "files": {
     "README.md": {
       "bytes": 640,
-      "sha256": "27c7d9dace99e973ba42d0f14b76d77d17a99ce5c34fcb19f32b743962d7426f"
+      "sha256": "ce60941525c80128c688b157ab64b672d25cdd5836735cc66373f6a2117c07ea"
     },
     "reference/index.md": {
       "bytes": 284,
-      "sha256": "19c130c03a84cda08cd4786ea490bdedf56341dc537616219dd13e40b2fdfa18"
+      "sha256": "7c8c502c86a8ca71c17af66ec6fcafe75318ab0ad03da69ca1b92d9bde8995ba"
     },
     "reference/vehicle-rule/0001.md": {
       "bytes": 6023,
-      "sha256": "de8a4e78cc1e21138255b75738d4cfdf52789b8e8a4c997751c9f2d13386847f"
+      "sha256": "b15344ec4e42bc035b1bedfd6f8e751369cb3fbfce8fab881f95a276639b9754"
     },
     "reference/vehicle/0001.md": {
       "bytes": 982,
-      "sha256": "ed7d859ce36280c1c91e6fe2d210865b9ac94b92bd7362392278ae208c3ea8ac"
+      "sha256": "081a7dcbce9d99c874d8e977efa5c84fdcfde57aa6513111718807f86afa97e5"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -614,7 +616,7 @@
     },
     "site/reader.json": {
       "bytes": 19706,
-      "sha256": "3c7cb9687f8d3f5dbf7e3fb4b6ec7231a68c1ca047b03053f54768b7230e2a4e"
+      "sha256": "8bfb9d66f2b996e09370d925a6925cab36624cec2719b02e4e4404acee7d3975"
     },
     "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json": {
       "bytes": 6778,
@@ -675,6 +677,10 @@
     "site/releases/7a3c1abc5752db31b2560fac7258e4b4ce5c9581eb634473097f1940995c69b9.json": {
       "bytes": 6555,
       "sha256": "e02a6b6c8812c2a80c090fe6b17eaeffcbf2d1cfc22605b9e06ee02a5ddfb640"
+    },
+    "site/releases/7f57527ba333c349fc353f81ef85ba91cfa6887abf476871498ae1f5b54fcb33.json": {
+      "bytes": 19706,
+      "sha256": "8bfb9d66f2b996e09370d925a6925cab36624cec2719b02e4e4404acee7d3975"
     },
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
       "bytes": 5056,
@@ -788,6 +794,10 @@
       "bytes": 17501,
       "sha256": "d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1"
     },
+    "site/runtime/d9e4159195ad774b46fc258059c6f14681f1ee6be8f086f2224d5399dee3c6a8/reader.js": {
+      "bytes": 77537,
+      "sha256": "d9e4159195ad774b46fc258059c6f14681f1ee6be8f086f2224d5399dee3c6a8"
+    },
     "site/runtime/e6c8d4d1f093c21956e06945ba01e98c76cacf7bd362bdd2afc06e38216dfa37/reader.js": {
       "bytes": 77193,
       "sha256": "e6c8d4d1f093c21956e06945ba01e98c76cacf7bd362bdd2afc06e38216dfa37"
@@ -802,7 +812,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "85460ed704f517755552c56d6ed194f9091323d9775aec9c6fd010f19bd3838e",
+  "release_id": "7f57527ba333c349fc353f81ef85ba91cfa6887abf476871498ae1f5b54fcb33",
   "repository_id": "vehicles",
   "schema_version": 1
 }
