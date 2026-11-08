@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-04T18:55:24+00:00",
+  "default_status": "missing",
+  "entries": [],
+  "kinds": [],
+  "observation_id": "34351dc7c19dcf8f8bfaa91a751a892169daebc3f36140b89d5203761fad7533",
+  "schema_version": 1,
+  "topics": [
+    {
+      "checked_at": "2026-10-04T18:55:24+00:00",
+      "destination": "Human Host:Guides/Vehicle Building",
+      "destination_revision": 544,
+      "reason": "literal-prose",
+      "revision": 544,
+      "status": "populated",
+      "title": "Human Host:Guides/Vehicle Building",
+      "url": "https://wiki.nerdwerx.io/index.php?title=Human+Host%3AGuides%2FVehicle+Building&oldid=544"
+    }
+  ]
+}
